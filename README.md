@@ -22,3 +22,8 @@ Compile using GCC:
 
 ```bash
 gcc main.c -o shell
+```
+## Run
+```bash
+./shell
+```
